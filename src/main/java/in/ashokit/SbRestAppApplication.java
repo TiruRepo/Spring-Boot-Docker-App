@@ -10,7 +10,10 @@ public class SbRestAppApplication {
 		SpringApplication.run(SbRestAppApplication.class, args);
 	}
 	public void doProcess(){
-		
+    
+  }
+  public void doSearch(){
+	
 	}
 
 }
