@@ -13,5 +13,8 @@ public class SbRestAppApplication {
 	public void doProcess(){
 	
 	}
+	public void doSearch(){
+		
+	}
 
 }
